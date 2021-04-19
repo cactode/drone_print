@@ -8,4 +8,5 @@ python3 -m venv ./venv
 source ./venv/bin/activate
 pip3 install -r requirements.txt
 ```
+All files are formatted with `black`
 An example usage of this module is provided in `example.py`
